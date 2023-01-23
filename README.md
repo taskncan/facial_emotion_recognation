@@ -3,13 +3,14 @@ Facial Emotion Recognition System
 This is a facial emotion recognition system that uses computer vision and machine learning techniques to analyze facial expressions in images or video. It can detect and classify various emotions, such as happiness, sadness, anger, surprise, and so on.
 
 Requirements
-Python 3.11 or latest 
-OpenCV
-TensorFlow
-Keras
-Numpy
 
-Installation
+* Python 3.11 or latest 
+* OpenCV
+* TensorFlow
+* Keras
+* Numpy
+
+Installation 
 
 Clone the repository
 git clone https://github.com/taskncan/facial_emotion_recognation.git
