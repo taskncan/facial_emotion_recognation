@@ -10,10 +10,6 @@ Requirements
 * Keras
 * Numpy
 
-Installation 
-
-Clone the repository
-git clone https://github.com/taskncan/facial_emotion_recognation.git
 
 Limitations
 
